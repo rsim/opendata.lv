@@ -1,5 +1,3 @@
-/* @override http://localhost:4000/css/screen.css */
-
 /* Global */
 
 * {
@@ -21,14 +19,16 @@ p {
   margin-bottom: .8em;
 }
 
+/* logo color #62B6F6 */
+
 a:link,
 a:visited {
-  color: #96AB59;
+  color: #5490BB;
   text-decoration: none;
 }
 
 a:hover {
-  background-color: #96AB59;
+  background-color: #5490BB;
   color: #fff;
 }
 
@@ -75,7 +75,7 @@ h4 {
   width: 100%;
   height: 110px;
   margin-bottom: 20px;
-  background: url(/images/opendata.png) no-repeat 40px 0;
+  background: url(/images/opendata.png) no-repeat 45px 0;
 }
 
 #header_title {
@@ -87,7 +87,7 @@ h4 {
 
 #header a:link, #header a:visited, #header a:hover,
 #sidebar #links a:link, #sidebar #links a:visited, #sidebar #links a:hover {
-  color: #96AB59;
+  color: #5490BB;
   background: none;
 }
 
