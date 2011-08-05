@@ -1,0 +1,37 @@
+<div id="links">
+<p>
+  <a href="http://twitter.com/rsim" target="_blank">
+    <img src="/images/twitter_logo.png" title="Follow Me on Twitter" style="float: left" />
+    <span style="font-size: 20px; line-height: 40px;">@rsim</span>
+  </a>
+</p>
+<p style="clear:left">
+  <a href="https://eazybi.com" target="_blank">
+    <img src="/images/eazybi.gif" title="eazyBI"/>
+  </a>
+</p>
+</div>
+
+<h2>Birkas</h2>
+<p>
+  {% include tag_cloud.html %}
+</p>
+
+<h2>Meklēt</h2>
+<form action="http://www.google.com/search" id="search" method="get">
+  <input class="text" name="q" type="text" />
+  <input name="sitesearch" type="hidden" value="blog.rayapps.com" />
+  <input class="button" type="submit" value="Google" />
+</form>
+
+<h2>Pēdējie ieraksti</h2>
+<ul class="posts">
+  {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+      <br/><span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Diskusijas</h2>
+<script type="text/javascript" src="http://disqus.com/forums/opendata-lv/combination_widget.js?num_items=5&hide_mods=0&color=grey&default_tab=recent&excerpt_length=200"></script><a href="http://disqus.com/">Nodrošina Disqus</a>

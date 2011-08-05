@@ -1,0 +1,16 @@
+---
+layout: default
+title: opendata.lv
+---
+
+{% for post in site.posts limit:5 %}
+  {% include show_post.html %}
+{% endfor %}
+
+<h2>Vecāki ieraksti</h2>
+
+<ul class="posts">
+  {% for post in site.posts offset:5 %}
+    <li><span class="date">{{ post.date | date: "%d.%m.%Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
