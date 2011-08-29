@@ -72,7 +72,7 @@ h4 {
 /* Page layout */
 
 #header {
-  width: 100%;
+  min-width: 840px;
   height: 110px;
   margin-bottom: 20px;
   background: url(/images/opendata.png) no-repeat 45px 0;
