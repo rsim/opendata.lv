@@ -11,7 +11,7 @@ Jau kādu laiku brieda doma par to, ka būtu ļoti vērtīgi pārvērst šos iep
 
 IUB rezultātu publikāciju apstrāde tehnoloģiski bija diezgan sarežģīta problēma:
 
-* Vispirms vajadzēja savākt visas IUB publikācijas - kopš 2010. gada sākuma to bija ap 200 000.
+* Vispirms vajadzēja savākt visas IUB publikācijas - kopš 2010. gada sākuma to bija ap 80 000.
 * No HTML dokumentiem vajadzēja atpazīt, kuras ir rezultātu publikācijas (tika apstrādāti dokumenti ar virsrakstiem INFORMATĪVS PAZIŅOJUMS PAR NOSLĒGTO LĪGUMU, PAZIŅOJUMS PAR IEPIRKUMA PROCEDŪRAS REZULTĀTIEM, PAZIŅOJUMS PAR LĪGUMA SLĒGŠANAS TIESĪBU PIEŠĶIRŠANU SABIEDRISKIE PAKALPOJUMI, BRĪVPRĀTĪGS PAZIŅOJUMS PAR IEPIRKUMA REZULTĀTIEM).
 * Tālāk katrā dokumentā vajadzēja atpazīt lēmuma pieņemšanas un publicēšanas datumus, pasūtītājus, to adreses un kontaktpersonas, CPV kodu (vienotā iepirkumu klasifikācija pa nozarēm), noslēgtos līgumus (vienā paziņojumā var būt minēti vairāki līgumi), katrā līgumā jāatpazīst piegādātājs, ar ko tiek slēgts līgums, piedāvātā cena un līguma summa, valūta, līguma nosaukums, kopējais piedāvājumu skaits.
 * Visu to apgrūtināja tas, ka kaut kad 2009./2010.gadā mainījas rezultātu publikācijas formas un daži apzinīgie pasūtītāji izmantoja jaunās formas, bet daži slinkākie turpināja copy/paste no vecajām formām.
