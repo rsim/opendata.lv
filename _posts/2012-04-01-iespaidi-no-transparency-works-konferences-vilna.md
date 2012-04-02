@@ -1,0 +1,19 @@
+---
+layout: post
+title: Iespaidi no Transparency Works konferences Viļņā
+author: Raimonds Simanovskis
+tags: konferences
+---
+
+<a href="http://transparencyworks.lt"><img src="/images/transparencyworks.png" alt="Transparency Works" style="float:left; padding:10px 20px 20px 0"/></a>
+Šajā nedēļā man bija iespēja piedalīties un arī uzstāties konferencē [Transparency Works](http://transparencyworks.lt) Viļņā, ko organizēja [Transparency International](http://transparency.org) (kuras pārstāvis Latvijā ir [Delna](http://delna.lv)).
+
+Pirmkārt, bija interesanti tur būt kopā ar Latvijas pārstāvjiem [Kristapu Petermani](https://twitter.com/#!/kristapsp) no [Delnas](http://delna.lv), [Ivetu Kažoku](https://twitter.com/#!/IvetaKazoka) no [Providus](http://providus.lv), [Kristofu Blaus](https://twitter.com/#!/KristofsBlaus) un [Jāni Ertu](https://twitter.com/#!/JanisErts) no [manabalss.lv](http://manabalss.lv). Pārējie konferences dalībnieki bija dažādu atklātības un atvērtības nevalstisko organizāciju un projektu pārstāvji no Eiropas, ASV un arī pāris citām valstīm.
+
+Konferences atklāšanā viena no ievada runām bija atvēlēta Kristofam un Jānim, kur viņi labā, atraktīvā "amerikāniskā" mārketinga stilā pastāstīja par [manabalss.lv](http://manabalss.lv) projektu un tā sasniegumiem. Pateicoties viņu aktivitātēm projekta popularizēšanā tas jau ir pazīstams daudzviet pasaulē un arī vairākās citās prezentācijās tas tika pieminēts kā viens no labākajiem e-demokrātijas projektiem. Vienīgi gribētos novēlēt, lai manabalss.lv patiešām ilgtermiņā sasniedz mērķi, ka tas nodrošina pastāvīgu pilsoņu iesaistīšanos demokrātijas procesā. Ja tam nebūs pastāvīgs ekspertu un moderatoru atbalsts iesniegtajām iniciatīvām, tad pastāv risks, ka iesniegtās iniciatīvas paliks Delfu komentāru līmenī. Un savukārt, ja pieteikoši bieži iesniegtās iniciatīvas nenonāks līdz Saeimas dienas kārtībai, tad arī iniciatīvu parakstītāju interese var noplakt.
+
+No citām prezentācijām bija interesanti paklausīties par Vācijā radīto [Parliament Watch](http://www.abgeordnetenwatch.de/international-248-0.html), kas sākotnēji radās kā Vācijas vietējo zemju un federālā parlamenta diskusiju platforma starp deputātiem un vēlētājiem, bet tagad viņu risinājumu izmanto arī Īrijā, Austrijā un Luksemburgā. Interesanti likās dažādi Slovākijas projekti atklātības un atvērto datu jomā - piemēram, [publisko iepirkumu dati un to analīze](http://tender.sme.sk/en/), kā arī [visi publisko iepirkumu līgumi](http://otvorenezmluvy.sk). MySociety pārstāvis pastāstīja par [dažādiem MySociety projektiem](http://www.mysociety.org/projects/). Bija interesanti paklausīties arī Igaunijas pieredzi e-government jomā un ka, neskatoties uz daudziem labi veidotiem valsts e-pakalpojumiem, tur sabiedrības iesaiste e-demokrātijas iniciatīvās nemaz nav tik liela. Lietuvas projekti, par kuriem tika stāstīts, pagaidām ir vēl tapšanas stadijā, piemēram, [manoseimas.lt](http://manoseimas.lt) (parlamenta atvērtības nodrošināšanai), [Lietuva 2.0](http://www.lietuva2.net) (izklausījās, ka grib kļūt par kaut ko vairāk nekā Facebook :)) un [Viešai](http://viesai.lt) (publisko institūciju finanšu analīzei un uzraudzībai). Kristaps Petermanis stāstīja par [Deputātiem uz delnas](http://www.deputatiuzdelnas.lv), savukārt es pastāstīju par pieredzi ar Latvijas atvērto datu analīzi un par tiem projektiem, kas jau šeit opendata.lv ir aprakstīti.
+
+Gribētos, lai šādi atklātības un datu atvērtības pasākumi notiktu biežāk arī Latvijā, jo savādāk nācās braukt uz Lietuvu, lai labāk iepazītu arī to, kas notiek Latvijā :)
+
+Noslēgumā gribēju arī aicināt visus interesentus pievienoties [Open Data Latvia diskusiju grupai](https://groups.google.com/forum/?fromgroups#!forum/opendata_lv), kura nesen ir izveidota, lai apspriestu atvērto datu aktualitātes Latvijā.
