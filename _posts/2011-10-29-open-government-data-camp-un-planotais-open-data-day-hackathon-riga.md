@@ -2,7 +2,7 @@
 layout: post
 title: Open Government Data Camp un plānotais Open Data Day Hackathon Rīgā
 author: Raimonds Simanovskis
-tags: konferences ogdcamp odhd
+tags: konferences ogdcamp odhd hakatons
 ---
 
 Pirms nedēļas piedalījos *open data* aktīvistu lielākajā ikgadējā konferencē [Open Government Data Camp](http://ogdcamp.org). Par šo konferenci uzzināju no vienas no konferences organizātājām, kas sakontaktēja mani Twitterī, jo bija pamanījusi manas opendata.lv aktivitātes.

@@ -2,7 +2,7 @@
 layout: post
 title: Pirmais Open Data Day Hackathon ir noticis!
 author: Raimonds Simanovskis
-tags: odhd Saeima
+tags: odhd Saeima hakatons
 ---
 
 Open Data kustība Latvijā ir oficiāli sākusies, jo 3. decembrī veiksmīgi notika [pirmais Open Data Day Hackathon pasākums](http://www.meetup.com/opendata-latvia/events/39140702/)!
