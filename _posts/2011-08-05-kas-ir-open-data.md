@@ -43,6 +43,6 @@ Modernas valsts pārvaldes entuziasti popularizē *open data* jeb *atvērto datu
 
 Ar šo principu ievērošanu Latvijas valsts pārvaldē pagaidām neiet īpaši spīdoši un nav pārāk daudz atvērto datu, kas atbilstu šiem principiem. Turpmākajos ierakstos pastāstīšu par saviem eksperimentiem ar dažādiem Latvijas publisko datu avotiem un cik veiksmīgi vai neveiksmīgi izdodas pie tiem piekļūt, apstrādāt un analizēt.
 
-Savos eksperimentos bieži izmantošu datu analīzes web aplikāciju [eazyBI](https://eazybi.com), ko patlaban izstrādāju, un kuru tai skaitā labi var izmantot publisko datu analīzei un publicēšanai. Ja vēlaties palīdzēt ar šo manu atvērto datu iniciatīvu, tad varat arī paši [pieteikties eazyBI lietošanai](https://eazybi.com/beta_registrations/new) un izmēģināt tajā ielādēt un analizēt dažādus publiskos datus.
+Savos eksperimentos bieži izmantošu datu analīzes web aplikāciju [eazyBI](https://eazybi.com), ko patlaban izstrādāju, un kuru tai skaitā labi var izmantot publisko datu analīzei un publicēšanai. Ja vēlaties palīdzēt ar šo manu atvērto datu iniciatīvu, tad varat arī paši [pieteikties eazyBI lietošanai](https://eazybi.com/sign_up) un izmēģināt tajā ielādēt un analizēt dažādus publiskos datus.
 
 Un, protams, labprāt dzirdētu komentārus, viedokļus un ierosinājumus par šo tēmu.
